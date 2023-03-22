@@ -1,0 +1,6 @@
+Retro Heber Sanchez
+1.-Se lee el ejercicio varias veces en voz alta para poder entenderlo de mejor manera
+2.-Se declaran las funciones pero no se tiene muy en claro que se tiene que hacer primero
+3.-Se genera la funcion correctamente con los parametros de entrada
+4.-Falta documentar el codigo.
+5.-Estar hablando sobre lo que se esta haciendo con mas seguridad ya que se necesita cierta inseguridad al hablar.
